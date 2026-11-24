@@ -10,5 +10,12 @@
     "tier": 13,
     "enjoyment": 7.5,
     "records": [
+        {
+            "user": "Kaese34",
+            "link": "",
+            "percent": 100,
+            "hz": 240,
+            "enjoyment": 8
+        }
     ]
 }
